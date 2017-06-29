@@ -4,7 +4,7 @@
 
 YDWE是一个用于制作《魔兽争霸III》(英文名 Warcraft3，下面简称War3) 地图的工具，它是基于War3自带的WorldEdit进行二次开发。
 
-## 编译
+## 编
 
 1. msvc2017
 2. windows sdk 10.0.15063.0
